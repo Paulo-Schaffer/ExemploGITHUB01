@@ -13,6 +13,10 @@ namespace Exemplo00
             Console.WriteLine("MEU AMIGO");
             Console.WriteLine("asdkjasdlka");
             Console.WriteLine("Eita");
+            for (int i = 0; i < 10000000; i++)
+            {
+                Console.WriteLine("OIEEE");
+            }
         }
     }
 }
