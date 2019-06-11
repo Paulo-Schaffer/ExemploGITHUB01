@@ -1,0 +1,7 @@
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\bin\Debug\Exemplo00.exe.config
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\bin\Debug\Exemplo00.exe
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\bin\Debug\Exemplo00.pdb
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\obj\Debug\Exemplo00.csprojAssemblyReference.cache
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\obj\Debug\Exemplo00.csproj.CoreCompileInputs.cache
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\obj\Debug\Exemplo00.exe
+T:\Documentos\GitHub\ExemploGITHUB01\ExemploGITHUB\Exemplo00\obj\Debug\Exemplo00.pdb

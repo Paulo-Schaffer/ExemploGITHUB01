@@ -10,7 +10,8 @@ namespace Exemplo00
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("MEU AMIGO");
+            Console.WriteLine("asdkjasdlka");
         }
     }
 }
