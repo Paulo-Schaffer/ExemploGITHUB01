@@ -12,6 +12,7 @@ namespace Exemplo00
         {
             Console.WriteLine("MEU AMIGO");
             Console.WriteLine("asdkjasdlka");
+            Console.WriteLine("Eita");
         }
     }
 }
